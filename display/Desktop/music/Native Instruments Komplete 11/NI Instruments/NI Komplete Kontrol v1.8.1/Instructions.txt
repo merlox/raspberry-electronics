@@ -1,0 +1,21 @@
+Native.Instruments.Komplete.Kontrol.v1.8.1-MAC
+
+[Update]
+
+1. Install the update from "Komplete_Kontrol_181U_Mac.dmg".
+
+2. Copy k'ed files.
+
+[NewInstall]
+
+1. Install Komplete Kontrol from "Komplete_Kontrol_101_Mac.dmg".
+
+2. Install the update from "Komplete_Kontrol_181U_Mac.dmg".
+
+3. Copy k'ed files.
+
+Copy k'ed files:
+
+Komplete Kontrol.app > /Applications/Native Instruments/Komplete KontrolKomplete Kontrol.component > /Library/Audio/Plug-Ins/ComponentsKomplete Kontrol.vst > /Library/Audio/Plug-Ins/VSTScanApp.app > /Library/Application Support/Native Instruments/Komplete Kontrol
+
+Enjoy!
